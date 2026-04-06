@@ -1,6 +1,6 @@
-# liufen-research-skills
+# icu-research-skills
 
-为 ICU/重症医学教授刘芬定制的 [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) 科研技能包。
+ICU/重症医学科研 [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) 技能包。
 
 ## Skills 概览
 
@@ -24,10 +24,10 @@ literature-review → presentation-logic → html-slides
 ## 安装
 
 ```bash
-claude skill install --from hanzili/liufen-research-skills
+claude skill install --from hanzili/icu-research-skills
 ```
 
-或手动复制到 `~/.claude/skills/liufen-research-skills/`。
+或手动复制到 `~/.claude/skills/icu-research-skills/`。
 
 ## 环境依赖
 

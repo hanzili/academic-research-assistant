@@ -1,6 +1,6 @@
-# 刘芬科研助手 Skills
+# ICU Research Skills
 
-为ICU/重症医学教授刘芬定制的科研工作技能包。
+ICU/重症医学科研工作技能包。
 
 ## Skills 概览
 
@@ -19,13 +19,11 @@
 
 ## 环境依赖
 
-- Python: `C:\Users\86138\.claude\skills\claude-office-skills\venv\Scripts\python.exe`（有PIL, PyMuPDF, python-pptx）
-- Node.js: `C:\Program Files\nodejs\node.exe`
-- Playwright (Node): `C:\Users\86138\.claude\skills\claude-office-skills\node_modules\playwright-core`
-- Chromium: `C:\Users\86138\AppData\Local\ms-playwright\chromium-1193\chrome-win\chrome.exe`
-- LibreOffice: `C:\Program Files\LibreOffice\program\soffice.exe`（通过PowerShell调用）
+- Python 3.12+（需要 PyMuPDF, python-pptx, Pillow）
+- Node.js + Playwright（用于 HTML slides 截图）
+- LibreOffice（可选，用于转 PDF）
 - MCP servers: pubmed, paper-search (含Sci-Hub下载), tavily
 
 ## 输出目录
 
-所有输出默认存放在: `C:\Users\86138\Desktop\刘芬科研助手\`
+所有输出默认存放在工作目录下。
