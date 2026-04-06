@@ -1,6 +1,6 @@
-# icu-research-skills
+# academic-research-assistant
 
-ICU/重症医学科研 [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) 技能包。
+学术科研 [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) 技能包。覆盖文献检索、演讲逻辑梳理、幻灯片生成的完整流程。
 
 ## Skills 概览
 
@@ -24,10 +24,10 @@ literature-review → presentation-logic → html-slides
 ## 安装
 
 ```bash
-claude skill install --from hanzili/icu-research-skills
+claude skill install --from hanzili/academic-research-assistant
 ```
 
-或手动复制到 `~/.claude/skills/icu-research-skills/`。
+或手动复制到 `~/.claude/skills/academic-research-assistant/`。
 
 ## 环境依赖
 

@@ -1,6 +1,6 @@
-# ICU Research Skills
+# Academic Research Assistant
 
-ICU/重症医学科研工作技能包。
+学术科研工作技能包。
 
 ## Skills 概览
 
